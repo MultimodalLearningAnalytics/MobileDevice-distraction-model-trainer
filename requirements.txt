@@ -1,0 +1,9 @@
+matplotlib
+pandas
+numpy
+keras
+tensorflow
+fsspec
+sklearn
+pydot
+tf2onnx
